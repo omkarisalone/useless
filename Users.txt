@@ -1,3 +1,0 @@
-YourName YOUR_HWID_HERE
-TestUser 1234567890abcdef
-omkar ef07b46764cfc915488eea98d2172e40c5c623dbdb9c5031cb1944fdf933afeb
