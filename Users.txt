@@ -1,0 +1,2 @@
+UserName1 HWID1
+UserName2 HWID2
